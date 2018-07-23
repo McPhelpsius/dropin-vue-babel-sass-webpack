@@ -1,0 +1,9 @@
+{
+  "presets": [
+    ["env", { "useBuiltins": true }],
+    "stage-3"
+  ],
+  "ignore": [
+    "node_modules"
+  ]
+}
